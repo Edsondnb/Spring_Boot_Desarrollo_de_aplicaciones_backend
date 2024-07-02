@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/5.%20Inicio%20construcci%C3%B3n%20de%20API%20Rest%20de%20Categor%C3%ADas/4.%20Uso%20de%20CrudRepository%20-%20Creaci%C3%B3n%20Interfaz%20Dao.mp4</location>
+			<duration>140063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/5.%20Inicio%20construcci%C3%B3n%20de%20API%20Rest%20de%20Categor%C3%ADas/5.%20Metadata%20en%20la%20respuesta%20del%20servicio.mp4</location>
+			<duration>382062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/5.%20Inicio%20construcci%C3%B3n%20de%20API%20Rest%20de%20Categor%C3%ADas/6.%20Clase%20de%20respuesta%20de%20Categor%C3%ADas.mp4</location>
+			<duration>165048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/5.%20Inicio%20construcci%C3%B3n%20de%20API%20Rest%20de%20Categor%C3%ADas/7.%20Estructura%20final%20de%20respuesta%20de%20Categor%C3%ADas..mp4</location>
+			<duration>170063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/6.%20Termino%20primera%20API%20Rest%20-%20Control%20de%20errores/1.%20Introducci%C3%B3n%20a%20la%20secci%C3%B3n.mp4</location>
+			<duration>60047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/6.%20Termino%20primera%20API%20Rest%20-%20Control%20de%20errores/3.%20Clase%20servicio%20de%20nuestra%20API%20Rest%20-%20uso%20de%20@Service.mp4</location>
+			<duration>229065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/6.%20Termino%20primera%20API%20Rest%20-%20Control%20de%20errores/4.%20Implementaci%C3%B3n%20clase%20service%20-%20uso%20de%20@Autowired%20-%20uso%20de%20Log.mp4</location>
+			<duration>530066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/6.%20Termino%20primera%20API%20Rest%20-%20Control%20de%20errores/5.%20Clase%20controladora%20de%20Categor%C3%ADa%20-%20M%C3%A9todo%20GET.mp4</location>
+			<duration>328052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/6.%20Termino%20primera%20API%20Rest%20-%20Control%20de%20errores/6.%20Probar%20primera%20API%20Rest%20-%20uso%20de%20Postman.mp4</location>
+			<duration>518061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/6.%20Termino%20primera%20API%20Rest%20-%20Control%20de%20errores/7.%20Manejo%20de%20errores%20-%20Uso%20de%20clase%20HttpStatus.mp4</location>
+			<duration>462054</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/7.%20Desarrollo%20CRUD%20de%20API%20Rest%20Categor%C3%ADa/1.%20Introducci%C3%B3n%20a%20la%20secci%C3%B3n.mp4</location>
+			<duration>48066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/7.%20Desarrollo%20CRUD%20de%20API%20Rest%20Categor%C3%ADa/3.%20API%20buscar%20por%20id%20-%20Uso%20de%20PathVariable.mp4</location>
+			<duration>821058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/7.%20Desarrollo%20CRUD%20de%20API%20Rest%20Categor%C3%ADa/4.%20Probar%20servicio%20buscar%20por%20id.mp4</location>
+			<duration>224050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/7.%20Desarrollo%20CRUD%20de%20API%20Rest%20Categor%C3%ADa/5.%20API%20Rest%20para%20guardar%20-%20Uso%20de%20POST.mp4</location>
+			<duration>550058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/7.%20Desarrollo%20CRUD%20de%20API%20Rest%20Categor%C3%ADa/6.%20Probar%20servicio%20guardar%20categor%C3%ADas.mp4</location>
+			<duration>261062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/7.%20Desarrollo%20CRUD%20de%20API%20Rest%20Categor%C3%ADa/7.%20API%20Rest%20para%20actualizar%20-%20Uso%20de%20PUT.mp4</location>
+			<duration>857049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/7.%20Desarrollo%20CRUD%20de%20API%20Rest%20Categor%C3%ADa/8.%20Probar%20API%20Rest%20de%20actualizar.mp4</location>
+			<duration>196070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/7.%20Desarrollo%20CRUD%20de%20API%20Rest%20Categor%C3%ADa/9.%20API%20Rest%20para%20eliminar%20-%20Uso%20de%20DELETE.mp4</location>
+			<duration>361048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/7.%20Desarrollo%20CRUD%20de%20API%20Rest%20Categor%C3%ADa/10.%20Probar%20servicio%20eliminar.mp4</location>
+			<duration>122068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/1.%20Introducci%C3%B3n%20a%20la%20secci%C3%B3n.mp4</location>
+			<duration>76069</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/3.%20Creaci%C3%B3n%20clase%20Libro.mp4</location>
+			<duration>226070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/4.%20Relaci%C3%B3n%20Many%20to%20One%20-%20JPA.mp4</location>
+			<duration>211070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/5.%20Creaci%C3%B3n%20tabla%20libros%20en%20base%20de%20datos.mp4</location>
+			<duration>111062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/6.%20Tarea%201%20API%20Rest%20para%20obtener%20todos%20los%20libros.mp4</location>
+			<duration>141062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/7.%20Resoluci%C3%B3n%20tarea%201%20API%20Rest%20para%20obtener%20todos%20los%20libros.mp4</location>
+			<duration>409066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/8.%20Tarea%202%20API%20Rest%20para%20obtener%20los%20libros%20por%20id.mp4</location>
+			<duration>57052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/9.%20Resoluci%C3%B3n%20tarea%202%20Obtener%20libros%20por%20id.mp4</location>
+			<duration>280056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/10.%20Tarea%203%20API%20Rest%20para%20guardar%20libros.mp4</location>
+			<duration>62067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/11.%20Prueba%20Tarea%203%20API%20Rest%20para%20guardar%20libros.mp4</location>
+			<duration>484067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/12.%20Resoluci%C3%B3n%20tarea%203%20API%20Rest%20para%20guardar%20libros.mp4</location>
+			<duration>141062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/13.%20Tarea%204%20API%20Rest%20para%20actualizar%20y%20eliminar%20libros.mp4</location>
+			<duration>56053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/14.%20Resoluci%C3%B3n%20Tarea%204%20API%20Rest%20para%20actualizar%20y%20eliminar%20libros.mp4</location>
+			<duration>228067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/Almacen/Edson/Documentos/Cursos/Lenguajes%20de%20Programaci%C3%B3n/Spring%20Boot%20Desarrollo%20de%20aplicaciones%20backend/8.%20Practica%20desarrollo%20de%20API%20Rest/15.%20Pruebas%20API%20actualizar%20y%20eliminar.mp4</location>
+			<duration>271047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+	</extension>
+</playlist>
